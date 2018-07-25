@@ -47,6 +47,7 @@ Collate:
     'comments.R'
     'object_name_linters.R'
     'deprecated.R'
+    'double_quotes_linter.R'
     'equals_na_lintr.R'
     'exclude.R'
     'expect_lint.R'
